@@ -1,4 +1,4 @@
-# ts_trafficsign_tut
+# trafficsign-detection-tutorial-tensorflow
 
 In order for this program to work it will need training and testing data from the Belgian Traffic Sign Dataset.
 
